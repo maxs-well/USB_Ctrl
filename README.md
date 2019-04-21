@@ -12,7 +12,7 @@ USB的传输方式选择了异步传输
 文件
 =
 * `usb_ctrl.v` : CY7C68013A USB芯片的驱动程序，使用verilog语言    
-* `usb_top.v`  : 对`usb_ctrl.v`的示例使用程序
+* `usb_top.v`  : 对`usb_ctrl.v`的示例使用程序（example）
 
 `usb_top.v`
 ==
